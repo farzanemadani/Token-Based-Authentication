@@ -1,0 +1,23 @@
+{
+    "events": [
+      {
+        "id": "123",
+        "title": "pupy paradc",
+        "time": "12:00",
+        "date": "Feb 22,2022"
+      },
+      {
+        "id": "456",
+        "title": "cat show",
+        "time": "15:00",
+        "date": "Feb 23,2022"
+      },
+      {
+        "id": "789",
+        "title": "bird festival",
+        "time": "18:00",
+        "date": "Feb 24,2022"
+      }
+    ]
+  }
+  
