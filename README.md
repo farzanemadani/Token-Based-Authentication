@@ -1,19 +1,10 @@
 # Token-Based Authentication
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
 
 Token-Based Authentication is a project that provides authentication functionality using tokens. It is built with Vue.js and Express.js, and it uses technologies such as Axios, CORS, JSON Web Token (jsonwebtoken), Pinia, Vue Router, and more.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Dev Dependencies](#dev-dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
