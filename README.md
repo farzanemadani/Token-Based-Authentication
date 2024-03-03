@@ -1,8 +1,5 @@
 # Token-Based Authentication
 
-
-## Description
-
 Token-Based Authentication is a project that provides authentication functionality using tokens. It is built with Vue.js and Express.js, and it uses technologies such as Axios, CORS, JSON Web Token (jsonwebtoken), Pinia, Vue Router, and more.
 
 
